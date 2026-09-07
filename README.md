@@ -28,28 +28,41 @@
 
 ⸻
 
-🛠 Tech Stack
+🛠 Тех. стек
 
 Backend
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white"/>
 </p>
 
-Databases
+Data & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+</p>
+
+Bots & Applications
+
+<p>
+<img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 Infrastructure & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -71,6 +84,16 @@ Go
 * Graceful shutdown
 * HTTP clients and servers
 
+Python
+
+* Django
+* Django REST Framework
+* Streamlit
+* Telegram bots
+* REST API
+* SQLAlchemy
+* Pandas
+
 PostgreSQL
 
 * Complex JOIN queries
@@ -88,6 +111,27 @@ Redis
 * TTL
 * Caching
 * Data exchange between services
+
+Linux
+
+* Linux administration
+* Bash
+* Systemd
+* Cron
+* SSH
+* NFS / CIFS
+* Network configuration
+* Process and service management
+* Logs and troubleshooting
+
+Docker
+
+* Docker
+* Docker Compose
+* Containerization
+* Multi-container applications
+* Environment variables
+* Volumes and networks
 
 ⸻
 
