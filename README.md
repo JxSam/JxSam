@@ -121,7 +121,7 @@ Docker
 
 ⸻
 
-📫 Contacts
+📫 Контакты
 
 <p>
 <a href="https://github.com/JxSam">
@@ -134,7 +134,3 @@ Email: murzagaleev.samat@gmail.com
 Telegram: @nn_sfe
 
 ⸻
-
-<p align="center">
-  <i>Backend developer.</i>
-</p>
