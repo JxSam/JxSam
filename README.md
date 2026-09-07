@@ -7,6 +7,7 @@
 Меня зовут Самат.
 
 Я — backend-разработчик, которому нравится разбираться в том, как всё работает под капотом. Основной фокус — разработка сервисов на Go, работа с PostgreSQL и Redis, интеграция API, Docker и Linux.
+Связаться со мной можно, кликнув любую из кнопочек соцсетей выше.
 
 ⸻
 
@@ -123,17 +124,17 @@ Docker
 📫 Contacts
 
 <p>
-<a href="https://github.com/">
+<a href="https://github.com/JxSam">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
-Email: your-email@example.com
+Email: murzagaleev.samat@gmail.com
 
-Telegram: @your_username
+Telegram: @nn_sfe
 
 ⸻
 
 <p align="center">
-  <i>Building backend systems with Go.</i>
+  <i>Backend developer.</i>
 </p>
