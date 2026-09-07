@@ -2,22 +2,24 @@
 
 Меня зовут Самат.
 
-Я Go Backend Developer, занимаюсь разработкой backend-сервисов, интеграцией внешних API и автоматизацией процессов.
+Я Backend Developer, занимаюсь разработкой backend-сервисов, интеграцией внешних API и автоматизацией процессов.
 
 В основном работаю с Go, PostgreSQL и Python.
 
 ⸻
 
-🧑‍💻 About me
+🧑‍💻 Обо мне
 
 В backend-разработке мне особенно интересны:
 
-* разработка API на GO;
+* разработка на GO;
+* администрирование Linux;
 * проектирование backend-сервисов;
 * PostgreSQL и оптимизация SQL;
+* Разработка на Python(Django, streamlit);
 * Redis и кеширование;
 * интеграция различных сервисов через API;
-* Docker и Linux;
+* Docker, CI/CD;
 * архитектура и поддерживаемость кода.
 
 В работе стараюсь придерживаться простого принципа:
@@ -54,7 +56,7 @@ Infrastructure & Tools
 
 ⸻
 
-⚙️ What I work with
+⚙️ С чем работаю
 
 Go
 
@@ -91,114 +93,6 @@ Redis
 
 🚀 Featured Projects
 
-📄 Document Notification Service
-
-Go · Gin · PostgreSQL · Redis · Docker
-
-Backend-сервис для обработки документов и автоматической отправки уведомлений.
-
-Проект демонстрирует архитектуру реального backend-приложения:
-
-Client
-   │
-   ▼
-HTTP Handler
-   │
-   ▼
-Service
-   │
-   ├──────────────► PostgreSQL
-   │
-   ├──────────────► Redis
-   │
-   ▼
-Background Workers
-   │
-   └──────────────► Notifications
-
-Реализовано
-
-* REST API
-* PostgreSQL
-* Redis
-* Background workers
-* Goroutines
-* Channels
-* Context cancellation
-* Graceful shutdown
-* Docker Compose
-* Unit tests
-* Integration tests
-
-⸻
-
-🔗 URL Shortener
-
-Go · Gin · PostgreSQL · Redis · Docker
-
-Сервис сокращения URL.
-
-Основные возможности:
-
-* создание коротких ссылок;
-* редирект;
-* хранение данных в PostgreSQL;
-* Redis caching;
-* TTL;
-* middleware;
-* обработка ошибок;
-* тестирование API.
-
-⸻
-
-⚡ gRPC User Service
-
-Go · gRPC · Protocol Buffers · PostgreSQL · Docker
-
-Небольшой сервис пользователей, реализованный с использованием gRPC.
-
-Проект создан для практики:
-
-* Protocol Buffers;
-* gRPC server/client;
-* RPC;
-* PostgreSQL;
-* validation;
-* error handling;
-* Docker.
-
-⸻
-
-🔄 Go Worker Pool
-
-Go · Goroutines · Channels · Context
-
-Небольшой проект для изучения конкурентного программирования в Go.
-
-Демонстрирует:
-
-* worker pool;
-* producer/consumer;
-* buffered channels;
-* sync.WaitGroup;
-* context cancellation;
-* graceful shutdown;
-* обработку ошибок;
-* конкурентное выполнение задач.
-
-⸻
-
-🧠 Currently learning
-
-Сейчас углубляюсь в:
-
-* Go concurrency;
-* gRPC;
-* Protocol Buffers;
-* тестирование Go-приложений;
-* алгоритмы и структуры данных;
-* system design;
-* высоконагруженные backend-системы.
 
 ⸻
 
