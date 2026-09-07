@@ -119,6 +119,7 @@ Docker
 🚀 Опубликованные проекты
 ⸻
 * 🔓 [Max contracts bot](https://github.com/JxSam/max-contracts-bot): чат-бот для мониторинга государственных контрактов: парсит данные из RSS, обрабатывает и сохраняет их в PostgreSQL, отслеживает новые события и отправляет пользователям уведомления в MAX Messenger.
+
 ⸻
 
 🎯 My approach
