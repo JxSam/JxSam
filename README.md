@@ -38,7 +38,6 @@ Backend
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white"/>
 </p>
 
 Data & Analytics
