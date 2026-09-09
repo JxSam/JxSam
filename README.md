@@ -48,6 +48,17 @@ Infrastructure & Tools
 
 ⸻
 
+🚀 Мои проекты
+
+⸻
+
+* 📑 [Max contracts bot](https://github.com/JxSam/max-contracts-bot): чат-бот для мониторинга контрактов c zakupki.gov.ru: парсит данные из RSS, обрабатывает и сохраняет их в PostgreSQL, отслеживает новые события и отправляет пользователям уведомления в MAX Messenger.
+* 📖 [Electronic training course](https://github.com/JxSam/eems): Веб-приложение для организации учебных курсов и работы с образовательным контентом. Реализована серверная часть на Django, структура проекта разделена на модули обучения, работы с контентом и лендинг, предусмотрены шаблоны, статика и медиаконтент. Стек: Python · Django · HTML · CSS · SQLite
+* ⌲ [Telegram bot](https://github.com/JxSam/telegrambot): асинхронный Telegram-бот для парсинга каналов, обработки публикаций и автоматизации работы с контентом.
+* ⚙️ [GO API Service](https://github.com/JxSam/my-go-api-service): API-сервис на Go для работы с данными и взаимодействия с базой данных PostgreSQL.
+
+⸻
+
 ⚙️ С чем работаю
 
 Go
@@ -109,17 +120,6 @@ Docker
 * Multi-container applications
 * Environment variables
 * Volumes and networks
-
-⸻
-
-🚀 Мои проекты
-
-⸻
-* 📑 [Max contracts bot](https://github.com/JxSam/max-contracts-bot): чат-бот для мониторинга контрактов c zakupki.gov.ru: парсит данные из RSS, обрабатывает и сохраняет их в PostgreSQL, отслеживает новые события и отправляет пользователям уведомления в MAX Messenger.
-* 📖 [Electronic training course](https://github.com/JxSam/eems): Веб-приложение для организации учебных курсов и работы с образовательным контентом. Реализована серверная часть на Django, структура проекта разделена на модули обучения, работы с контентом и лендинг, предусмотрены шаблоны, статика и медиаконтент. Стек: Python · Django · HTML · CSS · SQLite
-* ⌲ [Telegram bot](https://github.com/JxSam/telegrambot): асинхронный Telegram-бот для парсинга каналов, обработки публикаций и автоматизации работы с контентом.
-* ⚙️ [GO API Service](https://github.com/JxSam/my-go-api-service): API-сервис на Go для работы с данными и взаимодействия с базой данных PostgreSQL.
-
 
 ⸻
 
